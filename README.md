@@ -37,7 +37,9 @@ me = DataScientist()
 me.say_hi()
 ```
 
-## 🛠️ Tech Stack & Tools
+<div align="Center">
+  <h2>🛠️ Tech Stack & Tools</h2>
+</div>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,7 +69,9 @@ me.say_hi()
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📚 Current Learning Journey
+<div align="Center">
+  <h2>📚 Current Learning Journey</h2>
+</div>
 
 🎯 **Currently Exploring:**
 - Model Development 
@@ -75,8 +79,9 @@ me.say_hi()
 - Big Data technologies (Spark, Hadoop)
 - Computer Vision and NLP applications
 
-
-## 🎓 Education & Certifications
+<div align="Center">
+  <h2>🎓 Education & Certifications</h2>
+</div>
 
 **🎓 Bachelor of Technology - Computer Science Engineering**  
 *Lovely Professional University | [2023 - 2027]*
@@ -86,7 +91,10 @@ Data Structures & Algorithms | Database Management Systems | Machine Learning | 
 
 
 
-## 🎨 Fun Facts About Me
+
+<div align="Center">
+  <h2>🎨 Fun Facts About Me</h2>
+</div>
 
 - 📊 I can spend hours exploring a new dataset and finding hidden patterns
 - 🧩 Love solving complex problems with elegant algorithmic solutions
