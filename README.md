@@ -12,6 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](your-leetcode-url)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DxtroAlchemy)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshinm205@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-informational?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1anJtpgUcw95hItGwhCdlixOP9IGEU1BaW7Q79YxKZu0/edit?usp=sharing)
 
 </div>
 
